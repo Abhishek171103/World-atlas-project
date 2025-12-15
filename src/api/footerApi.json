@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "MdPlace",
+    "title": "Find us",
+    "details": "Ajmer, Rajasthan, India"
+  },
+  {
+    "icon": "IoCallSharp",
+    "title": "Call us",
+    "details": "7737002554"
+  },
+  {
+    "icon": "TbMailPlus",
+    "title": "Mail us",
+    "details": "Abhishek@gmail.com"
+  }
+]
