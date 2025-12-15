@@ -6,6 +6,8 @@ The project demonstrates strong frontend fundamentals such as component-based ar
 
 ---
 
+## live demo :- **https://world-atlas-project-tan.vercel.app/**
+
 ## ✨ Key Features
 
 * 🌐 Explore countries from all over the world
